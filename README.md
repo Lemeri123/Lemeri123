@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lemeri123
 - 👀 I’m interested in coding and working with anyone and having fun
-- 🌱 I’m currently learning javascript and python
-- 💞️ I’m looking to collaborate on any projects consisting of the above languages for now
+- 🌱 I’m a junior frontend developer
 - 📫 you can contact me via my whatsapp number- 0780321764
 
 <!---
