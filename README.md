@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lemeri123
-- 👀 I’m interested in coding and working with anyone and having fun
-- 🌱 I’m a junior frontend developer
-- 📫 you can contact me via my whatsapp number- 0780321764
+- I’m interested in coding and collaborating with IT enthusiast in order to harness mmy skills😊
+- 📫 you can contact me via my email- lemerigift@gmail.com
 
 <!---
 Lemeri123/Lemeri123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
