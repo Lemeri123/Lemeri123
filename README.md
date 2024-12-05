@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lemeri123
-- I’m interested in coding and collaborating with IT enthusiast in order to harness mmy skills😊
+- I’m interested in coding and collaborating with IT enthusiast in order to harness my skills😊
 - 📫 you can contact me via my email- lemerigift@gmail.com
 
 <!---
