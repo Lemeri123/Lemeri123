@@ -1,7 +1,7 @@
 # 🌟 Lemeri's GitHub Profile
 
 Hi there 👋, I'm Lemeri!  
-I'm a self-taught software engineer transitioning to backend development 🚀.
+I'm a computer engineering enthusiast 🚀.
 
 ---
 
