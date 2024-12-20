@@ -4,7 +4,7 @@ Hi there 👋, I'm Lemeri!
 I'm a computer engineering enthusiast 🚀.
 
 ---
-![Your Stats](https://github-readme-stats.vercel.app/api?Lemeri123=Lemeri123&show_icons=true&count_private=true)
+![Your Stats](https://github-readme-stats.vercel.app/api?username=Lemeri123&show_icons=true&count_private=true)
 
 ---
 
