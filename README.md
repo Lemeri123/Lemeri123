@@ -4,6 +4,9 @@ Hi there 👋, I'm Lemeri!
 I'm a computer engineering enthusiast 🚀.
 
 ---
+![Top Repo](https://img.shields.io/github/repo/stars/Lemeri123/repository-name?style=flat-square)
+
+---
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=Lemeri123&show_icons=true&count_private=true)
 
 ---
