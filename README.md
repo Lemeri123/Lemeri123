@@ -4,10 +4,6 @@ Hi there 👋, I'm Lemeri!
 I'm a computer engineering enthusiast 🚀.
 
 ---
-curl https://api.github.com/users/Lemeri123/repos?sort=stars&per_page=5
-
-
----
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=Lemeri123&show_icons=true&count_private=true)
 
 ---
