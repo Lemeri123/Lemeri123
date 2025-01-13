@@ -1,13 +1,13 @@
 # 🌟 Lemeri's GitHub Profile
 
 Hi there 👋, I'm Lemeri!  
-I'm a computer engineering enthusiast 🚀.
+Just a kid that wants to be a paramount tec personnel🚀.
 
 ---
 
 ## 🚀 Projects & Contributions
 
-- 🛠 Contributing to the various organisations and personal programs    
+- 🛠 Contributing to various organisations and programs    
 
 ---
 
