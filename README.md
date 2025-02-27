@@ -1,7 +1,6 @@
 # 🌟 Lemeri's GitHub Profile
 
-Hi there 👋, I'm Lemeri!  
-Just a kid that wants to be a paramount tec personnel🚀.
+Hi there 👋, I'm Lemeri Gift Festus!
 
 
 <!---
