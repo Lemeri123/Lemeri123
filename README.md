@@ -2,7 +2,6 @@
 
 Hi there 👋, I'm Lemeri Gift Festus!
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lemeri123&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
