@@ -3,6 +3,7 @@
 Hi there 👋, I'm Lemeri Gift Festus!
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lemeri123&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemeri123)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
